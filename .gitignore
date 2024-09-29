@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UtilsInfo.DataHelpers/bin/Debug/net8.0
+/UtilsInfo.DataHelpers/obj
+/UtilsInfoAPI/bin/Debug/net8.0
+/UtilsInfoAPI/obj/Debug/net8.0
